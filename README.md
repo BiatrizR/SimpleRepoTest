@@ -21,7 +21,7 @@ O ___Console da AWS___  ou  ___AWS Management Console___, é uma aplicação web
 - No menu Lateral selecione __All Services__
 - Em **compute** selecione **EC2**
 - 
-![all_services](https://github.com/user-attachments/assets/b8c1904c-83c8-4d2a-be1a-b2ba163ecf6f)
+<div><img src="![all_services](https://github.com/user-attachments/assets/b8c1904c-83c8-4d2a-be1a-b2ba163ecf6f)" width="150"/></div>
 
 > No menu superior, é possível escolha a região onde você deseja criar a instância. Que pode ser a região mais próxima de você ou da sua base de usuários
 
