@@ -1,7 +1,7 @@
  Criando instancia EC2
 ## _Passo a passo de como criar e configurar um servidor Linux na AWS utilizando o EC2:_
 
-[![Amazon|AWS]! (https://img.icons8.com/?size=100&id=33039&format=png&color=000000)](https://aws.amazon.com/)
+[![Amazon|AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)](https://aws.amazon.com/)
 
 
 ## Requisitos
