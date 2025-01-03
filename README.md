@@ -41,3 +41,16 @@ O ___Console da AWS___  ou  ___AWS Management Console___, é uma aplicação web
 > Também possível escolher outras distribuições Linux, como Ubunto ou Red HAT.
 
 <div><img src="https://github.com/user-attachments/assets/e2e4ca27-9d12-4def-98e3-7bef05689f5c" width="400"/></div>
+
+##
+
+- token gerado no github
+
+## Preparação do ambiente
+- No menu dentro de EC2 selecione instances 
+- Selecione a instancia criada para a api
+- depois no menu superior clique em _Connect_
+
+![Captura de tela 2025-01-03 173415](https://github.com/user-attachments/assets/5c1838d7-4756-442f-8217-e0ee5462055c)
+
+
