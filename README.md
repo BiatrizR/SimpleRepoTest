@@ -54,3 +54,12 @@ O ___Console da AWS___  ou  ___AWS Management Console___, é uma aplicação web
 ![Captura de tela 2025-01-03 173415](https://github.com/user-attachments/assets/5c1838d7-4756-442f-8217-e0ee5462055c)
 
 
+
+## Encontre o serviço S3
+- No menu Lateral selecione __All Services__
+- Em **compute** selecione **S3**
+
+<div><img 
+![Captura de tela 2025-01-03 222115](https://github.com/user-attachments/assets/110893f8-7e72-409e-809f-335e3bed1992)
+width="150" /></div>
+
