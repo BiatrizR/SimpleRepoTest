@@ -40,7 +40,7 @@ O ___Console da AWS___  ou  ___AWS Management Console___, é uma aplicação web
 > A _Linux 2 AMI_ é recomendada para criação de servidor Linux. é otimizada para a AWS e gratuita no Free Tier. 
 > Também possível escolher outras distribuições Linux, como Ubunto ou Red HAT.
 
-<div><img src="https://github.com/user-attachments/assets/e2e4ca27-9d12-4def-98e3-7bef05689f5c" width="400"/></div>
+<div><img src="https://github.com/user-attachments/assets/110893f8-7e72-409e-809f-335e3bed1992" width="400"/></div>
 
 ##
 
